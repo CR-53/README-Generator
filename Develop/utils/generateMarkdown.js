@@ -7,7 +7,6 @@ ${data.description}
 
 ![License badge](https://img.shields.io/badge/license-${data.license}-green)
 
-&nbsp;
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -16,36 +15,30 @@ ${data.description}
 4. [Contribution](#Contribution)
 5. [Questions](#Questions)
 
-&nbsp;
 
 ## Installation
 ${data.installation}
 
-&nbsp;
 
 ## Usage
 ${data.usage}
 
-&nbsp;
 
 ## License
-${data.license}
+${data.license}</br> 
 ![License badge](https://img.shields.io/badge/license-${data.license}-green) 
 
-&nbsp;
 
 ## Contribution
 ${data.contributing}
 
-&nbsp;
 
 ## Tests
 ${data.tests}
 
-&nbsp;
 
 ## Questions
-You can view my GitHub profile here: ${data.GitHubUserName}.
+You can view my GitHub profile here: https://github.com/${data.GitHubUserName}</br>
 If you have any questions, feel free to send me an email: ${data.email}`;
 }
 
